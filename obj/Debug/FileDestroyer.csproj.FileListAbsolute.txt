@@ -1,0 +1,15 @@
+C:\Users\BV007\Desktop\FileDestroyer\FileDestroyer\bin\Debug\FileDestroyer.exe.config
+C:\Users\BV007\Desktop\FileDestroyer\FileDestroyer\bin\Debug\FileDestroyer.exe
+C:\Users\BV007\Desktop\FileDestroyer\FileDestroyer\bin\Debug\FileDestroyer.pdb
+C:\Users\BV007\Desktop\FileDestroyer\FileDestroyer\obj\Debug\FileDestroyer.csproj.AssemblyReference.cache
+C:\Users\BV007\Desktop\FileDestroyer\FileDestroyer\obj\Debug\FileDestroyer.csproj.SuggestedBindingRedirects.cache
+C:\Users\BV007\Desktop\FileDestroyer\FileDestroyer\obj\Debug\MainWindow.baml
+C:\Users\BV007\Desktop\FileDestroyer\FileDestroyer\obj\Debug\MainWindow.g.cs
+C:\Users\BV007\Desktop\FileDestroyer\FileDestroyer\obj\Debug\App.g.cs
+C:\Users\BV007\Desktop\FileDestroyer\FileDestroyer\obj\Debug\FileDestroyer_MarkupCompile.cache
+C:\Users\BV007\Desktop\FileDestroyer\FileDestroyer\obj\Debug\FileDestroyer.g.resources
+C:\Users\BV007\Desktop\FileDestroyer\FileDestroyer\obj\Debug\FileDestroyer.Properties.Resources.resources
+C:\Users\BV007\Desktop\FileDestroyer\FileDestroyer\obj\Debug\FileDestroyer.csproj.GenerateResource.cache
+C:\Users\BV007\Desktop\FileDestroyer\FileDestroyer\obj\Debug\FileDestroyer.csproj.CoreCompileInputs.cache
+C:\Users\BV007\Desktop\FileDestroyer\FileDestroyer\obj\Debug\FileDestroyer.exe
+C:\Users\BV007\Desktop\FileDestroyer\FileDestroyer\obj\Debug\FileDestroyer.pdb

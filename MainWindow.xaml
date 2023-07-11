@@ -1,0 +1,19 @@
+﻿<Window x:Class="FileDeleter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="File Destroyer" Height="350" Width="525">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBlock Text="Folder Path:" />
+            <TextBox x:Name="folderPathTextBox" Margin="0,5" />
+            <TextBlock Text="File Extension (optional):" />
+            <TextBox x:Name="fileExtensionTextBox" Margin="0,5" />
+            <Button Content="Find Files" Click="FindFilesButton_Click" Margin="0,10" />
+            <ListBox x:Name="fileListBox" Margin="0,10" SelectionMode="Multiple" />
+            <Button Content="Remove Selected" Click="RemoveSelectedButton_Click" Margin="0,10" />
+            <CheckBox x:Name="permanentDeleteCheckBox" Content="Permanent Delete" Margin="0,10" />
+            <Button Content="Delete Selected" Click="DeleteSelectedButton_Click" Margin="0,10" />
+            <Button Content="Toggle All" Click="ToggleAllButton_Click" />
+        </StackPanel>
+    </Grid>
+</Window>
